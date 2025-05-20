@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>Size Storm Pipes</Name>
+    <Assembly>C:\Program Files\Autodesk\SizeStormPipes.dll</Assembly>
+    <AddInId>5D0B8F99-114D-49B2-92A0-43990A2199BA</AddInId>
+    <FullClassName>StormPipeSizing.SizeStormPipes</FullClassName>
+    <VendorId>DEUB</VendorId>
+    <VendorDescription>Derek Eubanks, PE | GT MSCS – Machine Learning</VendorDescription>
+  </AddIn>
+</RevitAddIns>
